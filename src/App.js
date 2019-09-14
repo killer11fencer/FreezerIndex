@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import './Login.css'
 class Login extends Component {
   constructor() {
     super();
@@ -30,6 +30,10 @@ class Login extends Component {
             <footer>
               <div>
                 <h6>Contact Info</h6>
+                <h6>Social Media</h6>
+                <img/>
+                <img/>
+                <img/>
               </div>
             </footer>
       </div>
